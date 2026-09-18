@@ -1,0 +1,16 @@
+{
+  "name": "Billy Vigia - Seguran\u00e7a Motorizada",
+  "short_name": "Billy Vigia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#FFC700",
+  "icons": [
+    {
+      "src": "billy_vigia_escudo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
