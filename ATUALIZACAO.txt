@@ -1,0 +1,25 @@
+BILLY VIGIA - ATUALIZAÇÃO FINAL COM LOGIN OBRIGATÓRIO
+===================================================
+Gerado: Login e senha obrigatórios, sem balões, tudo editável
+
+CORREÇÕES DESTA VERSÃO:
+- Login e senha obrigatórios para entrar (não entra sem preencher)
+- Sem balões de "digita senha" - apenas borda vermelha + texto "Campo obrigatório"
+- Só entra ao clicar em ENTRAR ou nos 3 botões, não ao digitar
+- Central do Billy: botão excluir vigilante (lixeira vermelha) funcionando
+- Tudo editável mantido: motos no mapa, vigilantes, clientes até 50 casas, ocorrências, gráfico rondas
+- Sou Cliente: Ao Vivo, Chegando em Casa (Central primeiro), Alerta Suspeito, PIX/Cartão
+- Sou Vigilante: Checklist 50% bateria, Rondas Aleatórias, Controle velocidade
+- Mapa vivo verde/amarelo/vermelho, Man Down, Geofencing, Pânico Bluetooth, Bodycam, Playback, Fila emergência com som, despacho apoio, mapa calor, rádio IP, botão 190
+
+COMO ATUALIZAR GITHUB agoravai492-web/billy-vigia:
+1. https://github.com/agoravai492-web/billy-vigia
+2. Add file > Upload files > arraste index.html deste ZIP
+3. Commit changes
+4. https://agoravai492-web.github.io/billy-vigia/ atualiza em 1-2 min
+
+LOGINS:
+cliente@teste.com / 1234
+vigilante@teste.com / 1234
+admin / admin
+ou qualquer email/senha preenchido
